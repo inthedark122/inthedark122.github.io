@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/music-portfolio-v2/static/js/main.03223eb3.chunk.js",
+    "main.js.map": "/music-portfolio-v2/static/js/main.03223eb3.chunk.js.map",
+    "runtime-main.js": "/music-portfolio-v2/static/js/runtime-main.1fdb0c8b.js",
+    "runtime-main.js.map": "/music-portfolio-v2/static/js/runtime-main.1fdb0c8b.js.map",
+    "static/js/2.e9c6279d.chunk.js": "/music-portfolio-v2/static/js/2.e9c6279d.chunk.js",
+    "static/js/2.e9c6279d.chunk.js.map": "/music-portfolio-v2/static/js/2.e9c6279d.chunk.js.map",
+    "index.html": "/music-portfolio-v2/index.html",
+    "precache-manifest.6dca66dd272381f5f41171fdf9e6d380.js": "/music-portfolio-v2/precache-manifest.6dca66dd272381f5f41171fdf9e6d380.js",
+    "service-worker.js": "/music-portfolio-v2/service-worker.js",
+    "static/js/2.e9c6279d.chunk.js.LICENSE.txt": "/music-portfolio-v2/static/js/2.e9c6279d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1fdb0c8b.js",
+    "static/js/2.e9c6279d.chunk.js",
+    "static/js/main.03223eb3.chunk.js"
+  ]
+}
