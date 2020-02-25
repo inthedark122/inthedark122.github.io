@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/static/js/main.df621cbb.chunk.js",
-    "main.js.map": "/static/js/main.df621cbb.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.29988bec.js",
-    "runtime-main.js.map": "/static/js/runtime-main.29988bec.js.map",
-    "static/js/2.e9c6279d.chunk.js": "/static/js/2.e9c6279d.chunk.js",
-    "static/js/2.e9c6279d.chunk.js.map": "/static/js/2.e9c6279d.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.416f02af649f25b9be19808ee471fa4c.js": "/precache-manifest.416f02af649f25b9be19808ee471fa4c.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.e9c6279d.chunk.js.LICENSE.txt": "/static/js/2.e9c6279d.chunk.js.LICENSE.txt"
+    "main.js": "/music-portfolio-v3/static/js/main.df621cbb.chunk.js",
+    "main.js.map": "/music-portfolio-v3/static/js/main.df621cbb.chunk.js.map",
+    "runtime-main.js": "/music-portfolio-v3/static/js/runtime-main.8752b883.js",
+    "runtime-main.js.map": "/music-portfolio-v3/static/js/runtime-main.8752b883.js.map",
+    "static/js/2.e9c6279d.chunk.js": "/music-portfolio-v3/static/js/2.e9c6279d.chunk.js",
+    "static/js/2.e9c6279d.chunk.js.map": "/music-portfolio-v3/static/js/2.e9c6279d.chunk.js.map",
+    "index.html": "/music-portfolio-v3/index.html",
+    "precache-manifest.b663843dcc07a5703c5f30be6b98c2de.js": "/music-portfolio-v3/precache-manifest.b663843dcc07a5703c5f30be6b98c2de.js",
+    "service-worker.js": "/music-portfolio-v3/service-worker.js",
+    "static/js/2.e9c6279d.chunk.js.LICENSE.txt": "/music-portfolio-v3/static/js/2.e9c6279d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.29988bec.js",
+    "static/js/runtime-main.8752b883.js",
     "static/js/2.e9c6279d.chunk.js",
     "static/js/main.df621cbb.chunk.js"
   ]
