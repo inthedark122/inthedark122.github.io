@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/music-portfolio-v3/static/js/main.df621cbb.chunk.js",
-    "main.js.map": "/music-portfolio-v3/static/js/main.df621cbb.chunk.js.map",
+    "main.js": "/music-portfolio-v3/static/js/main.9470a997.chunk.js",
+    "main.js.map": "/music-portfolio-v3/static/js/main.9470a997.chunk.js.map",
     "runtime-main.js": "/music-portfolio-v3/static/js/runtime-main.8752b883.js",
     "runtime-main.js.map": "/music-portfolio-v3/static/js/runtime-main.8752b883.js.map",
     "static/js/2.e9c6279d.chunk.js": "/music-portfolio-v3/static/js/2.e9c6279d.chunk.js",
     "static/js/2.e9c6279d.chunk.js.map": "/music-portfolio-v3/static/js/2.e9c6279d.chunk.js.map",
     "index.html": "/music-portfolio-v3/index.html",
-    "precache-manifest.83124fdf16aad187999d4b36f3794657.js": "/music-portfolio-v3/precache-manifest.83124fdf16aad187999d4b36f3794657.js",
+    "precache-manifest.3c892f80e1e076d6bfb907607f8d1273.js": "/music-portfolio-v3/precache-manifest.3c892f80e1e076d6bfb907607f8d1273.js",
     "service-worker.js": "/music-portfolio-v3/service-worker.js",
     "static/js/2.e9c6279d.chunk.js.LICENSE.txt": "/music-portfolio-v3/static/js/2.e9c6279d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8752b883.js",
     "static/js/2.e9c6279d.chunk.js",
-    "static/js/main.df621cbb.chunk.js"
+    "static/js/main.9470a997.chunk.js"
   ]
 }
