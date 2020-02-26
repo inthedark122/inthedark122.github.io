@@ -13,7 +13,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "/music-portfolio-v3",
+  "start_url": "./music-portfolio-v3",
   "display": "standalone",
   "theme_color": "#060502",
   "background_color": "#ffffff"
